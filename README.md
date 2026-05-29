@@ -5,7 +5,7 @@ This project demonstrates clean MVC architecture with separation of concerns usi
 
 ---
 
-## 🚀 Features
+## Features
 
 * Full CRUD operations for Products
 * Manage Categories
@@ -16,7 +16,7 @@ This project demonstrates clean MVC architecture with separation of concerns usi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Node.js
 * Express.js
